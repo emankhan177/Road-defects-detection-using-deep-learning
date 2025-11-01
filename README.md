@@ -2,22 +2,22 @@
 ****Overview****
 
 This project focuses on detecting and classifying road surface damages using YOLO-based convolutional neural networks (CNNs). The goal is to automate road inspection tasks through deep learning, improving efficiency, safety, and accuracy in infrastructure assessment. This project was developed as part of my Master’s thesis in Artificial Intelligence and reflects my ongoing research interest in sustainable and efficient AI systems.
-**
-**Objectives****
+
+**Objectives**
 
 To design an end-to-end deep learning pipeline for detecting and classifying various road damages.
 
 To evaluate the performance of YOLO architectures on real-world datasets.
 
 To explore how model optimization and resource management can contribute to energy-efficient AI practices.
-**
-**Methodology****
+
+**Methodology**
 
 **Dataset Preparation:** Collected and annotated road surface images representing different damage types (cracks, potholes, etc.).
 
 **Model Architecture:** Implemented YOLOv5 for object detection using transfer learning.
 
-**Training: **Fine-tuned hyperparameters to achieve robust accuracy across different environmental conditions.
+**Training:** Fine-tuned hyperparameters to achieve robust accuracy across different environmental conditions.
 
 **Evaluation:** Measured model performance using precision, recall, and mAP metrics.
 
